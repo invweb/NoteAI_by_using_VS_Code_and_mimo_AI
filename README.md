@@ -2,6 +2,11 @@
 
 Cross-platform notes application with AI-powered features using Ollama.
 
+## Screenshots
+
+![Main Interface](screenshots/scr1.png)
+![AI in Action](screenshots/scr2.png)
+
 ## Features
 
 - Create and edit notes
