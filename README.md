@@ -4,17 +4,22 @@ Cross-platform notes application with AI-powered features using Ollama.
 
 ## Screenshots
 
-![Main Interface](screenshots/scr1.png)
-![AI in Action](screenshots/scr2.png)
-![Ollama Integration](screenshots/ol.png)
+| Notes List | Note Editor |
+|------------|-------------|
+| ![Notes List](screenshots/notes_list.png) | ![Note Editor](screenshots/note_editor.png) |
+
+| AI Summarize | AI Tag Suggestions |
+|--------------|---------------------|
+| ![AI Summarize](screenshots/ai_summarize.png) | ![AI Tags](screenshots/ai_tags.png) |
 
 ## Features
 
 - Create and edit notes
 - AI-powered summarization
 - AI-powered tag suggestions
+- Persistent storage (notes saved locally)
 - Desktop (Windows, macOS, Linux) support
-- Android support (coming soon)
+- Android support
 
 ## Requirements
 
